@@ -111,3 +111,4 @@ let calculateMedian = function (arr){
   }
 
 console.log (calculateMedian(nums)) // used a lot of google to figure this one out and help from a family member
+
